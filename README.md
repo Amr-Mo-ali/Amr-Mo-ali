@@ -32,12 +32,10 @@ amr = {
 
 ## Featured Projects
 
-### 🎙️ [مُعلِّم — Arabic AI Voice Tutor](https://github.com/Amr-Mo-ali/muallim)
+### 🎙️ [مُعلِّم — Arabic AI Voice Tutor](https://github.com/Amr-Mo-ali/-Muallim-AI-Voice-Tutor)
 Upload any PDF → Ask a question in Arabic → Get a spoken answer.
 Full RAG pipeline: Whisper large-v3 · LLaMA 3.3 70B · ChromaDB · ElevenLabs · FastAPI
 > **[Live Demo →](https://enthusiastic-simplicity-production.up.railway.app/ui)**
-
-![مُعلِّم UI](https://github.com/Amr-Mo-ali/muallim/raw/main/docs/screenshot.png)
 
 ### 📰 [Arabic News Credibility Analyzer](https://github.com/Amr-Mo-ali/arabic-news-credibility)
 AraBERT v2 fine-tuned for fake news detection · **98.8% accuracy** · 111+ HuggingFace downloads
