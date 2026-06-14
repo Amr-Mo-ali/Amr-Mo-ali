@@ -44,7 +44,7 @@ AraBERT v2 fine-tuned for fake news detection · **98.8% accuracy** · 111+ Hugg
 ### 💬 [Arabic RAG Chatbot](https://github.com/Amr-Mo-ali/arabic-rag-chatbot)
 LangChain + ChromaDB + Groq LLaMA · multilingual embeddings · Arabic RTL PDF support
 
-### 🔍 [Arabic Sentiment Analysis API](https://github.com/Amr-Mo-ali/arabic-sentiment-analysis)
+### 🔍 [Arabic Sentiment Analysis API](https://github.com/Amr-Mo-ali/arabic-sentiment-api)
 Fine-tuned AraBERT for Arabic sentiment · FastAPI + Docker · deployed on HuggingFace Spaces
 
 ---
